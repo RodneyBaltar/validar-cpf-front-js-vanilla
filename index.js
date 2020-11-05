@@ -1,4 +1,4 @@
-const URL="https://javaspring-rodney.herokuapp.com//validacpf?cpf="
+const URL="https://javapring-rodney.herokuapp.com//validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
